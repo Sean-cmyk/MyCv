@@ -1,0 +1,33 @@
+body{
+
+    background-color:tan;
+    font-family:Helvetica, sans-serif; 
+     
+    border-style:solid;
+    text-align: auto
+    
+}
+p{
+    text-align:center;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+img{
+    display: block;
+    margin: auto;
+}
+
+footer{ 
+    background-color:rosybrown;
+    color: ivory;
+    text-align: center;
+    padding: 0.5px;
+}
